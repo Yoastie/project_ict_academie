@@ -5,17 +5,11 @@
  * File: Footer.php
  */
 ?>
-<!DOCTYPE html>
-<html lang="nl">
-<body>
-<header>
-    <nav>
-        <ul>
+<Footer>
+    <p>
+        Privacyverklaring
+    </p>
+</Footer>
 
-        </ul>
-    </nav>
-</header>
-</body>
-</html>
 
 
