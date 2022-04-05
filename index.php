@@ -16,7 +16,7 @@
     </head>
     <body>
         <?php
-            include "Footer.php"
+            include "Includes/Footer.php"
         ?>
         <main>
         </main>

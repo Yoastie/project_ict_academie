@@ -1,0 +1,21 @@
+ /**
+ /** User: Sep de Graaff, Lars van Iersel, Sven van Gasteren*
+ /** Date: 5-4-2022*
+ /** File: Index.php*
+ /**
+  */
+
+ body
+ {
+     margin: 0px;
+     padding: 0px;
+ }
+
+ footer
+ {
+     position: relative;
+     bottom: 0;
+     border-top-style: dashed;
+     border-top-width: 10px;
+     border-top-color: red;
+ }
