@@ -15,6 +15,9 @@
         <link href="styles/home.css" rel="stylesheet">
     </head>
     <body>
+        <?php
+            include "Footer.php"
+        ?>
         <main>
         </main>
     </body>
