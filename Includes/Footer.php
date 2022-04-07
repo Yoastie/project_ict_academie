@@ -7,6 +7,7 @@
 ?>
 <Footer>
     <div class="lijn"></div>
+    <div><img src="./Images/Facebook.png" alt="Facebook"></div>
     <p>
         Privacyverklaring
     </p>
