@@ -25,14 +25,20 @@
  {
      position: relative;
      width: 100px;
+     height: 10px;
      bottom: 10px;
      text-align: left;
      left: 15px;
  }
 
- footer>img
+ div>img
  {
-
+    position: relative;
+    width: 25px;
+    height: 25px;
+    top: 2vh;
+    float: right;
+    right: 10px;
  }
 
  .lijn
