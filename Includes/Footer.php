@@ -6,6 +6,7 @@
  */
 ?>
 <Footer>
+    <div class="lijn"></div>
     <p>
         Privacyverklaring
     </p>
