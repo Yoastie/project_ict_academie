@@ -12,15 +12,15 @@ body, header, ul, nav
 /* opmaak navigatie balk  */
 nav
 {
-    width: 100vw;
-    background-color: #0085ca;
     position: absolute;
+    width: 100vw;
     height: 114px;
+    background-color: #0085ca;
     font-size: 20px;
 }
 
 /* opmaak foto */
-img
+a>img
 {
     width: 100vw;
     height: 20vh;
