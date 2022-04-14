@@ -12,6 +12,14 @@
      height: 100vh;
  }
 
+ header
+ {
+     position: relative;
+     width: 100%;
+     height: 5vh;
+     background-color: #0085ca;
+ }
+
  footer
  {
      position: relative;
@@ -31,6 +39,26 @@
      left: 15px;
  }
 
+ nav>img
+ {
+     position: relative;
+     width: 100px;
+     height: 100px;
+ }
+
+ li
+ {
+     list-style: none;
+     float: left;
+     width: calc(50%/4);
+     text-align: center;
+ }
+
+ a
+ {
+     text-decoration: none;
+ }
+
  div>img
  {
     position: relative;
@@ -47,4 +75,7 @@
      background-image: url("../Images/lijn.png");
      background-color: white;
  }
+
+ p
+ 
 
