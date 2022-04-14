@@ -2,7 +2,7 @@
 /**
  * User: Sep de Graaff
  * Date: 5-4-2022
- * File: Footer.php
+ * File: footer.php
  */
 ?>
 <Footer>
