@@ -1,81 +1,109 @@
- /**
- /** User: Sep de Graaff, Lars van Iersel, Sven van Gasteren*
- /** Date: 5-4-2022*
- /** File: Index.php*
- /**
-  */
+/**
+/** User: Sep de Graaff, Lars van Iersel, Sven van Gasteren*
+/** Date: 5-4-2022*
+/** File: Index.php*
+/**
+*/
 
- body
- {
+body
+{
      margin: 0;
      padding: 0;
      height: 100vh;
- }
+}
 
- header
- {
+header
+{
      position: relative;
      width: 100%;
-     height: 5vh;
+     height: 10vh;
      background-color: #0085ca;
- }
+}
 
- footer
- {
+footer
+{
      position: relative;
      top: 92vh;
-     height: 8vh;
+     height: 6vh;
      background-color: #0085ca;
      color: white;
- }
+}
 
- footer>p
- {
+footer>p
+{
      position: relative;
      width: 100px;
      height: 10px;
      bottom: 10px;
      text-align: left;
      left: 15px;
- }
+}
 
- nav>img
- {
-     position: relative;
-     width: 100px;
-     height: 100px;
- }
 
- li
- {
-     list-style: none;
-     float: left;
-     width: calc(50%/4);
-     text-align: center;
- }
 
- a
- {
-     text-decoration: none;
- }
+li
+{
+    position: relative;
+    list-style: none;
+    float: left;
+    width: 10em;
+    left: 31vw;
+    top: 21px;
 
- div>img
- {
+}
+
+a
+{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bold;
+    color: white;
+}
+
+div>img
+{
     position: relative;
     width: 25px;
     height: 25px;
     top: 2vh;
     float: right;
     right: 10px;
- }
+}
 
- .lijn
- {
-     height: 0.6em;
-     background-image: url("../Images/lijn.png");
-     background-color: white;
- }
+.lijn
+{
+    height: 0.6em;
+    background-image: url("/images/lijn.png");
+    background-color: white;
+}
 
- p
- 
+#logokw1c
+{
+    position: relative;
+    height: 10vh;
+    right: 35vw;
+}
 
+#slot
+{
+    position: relative;
+    height: 30px;
+    left: 50vw;
+    top: -35px;
+}
+
+#NLvlag
+{
+    position: relative;
+    height: 40px;
+    left: 45vw;
+    top: -30px;
+}
+
+#menufoto
+{
+    position: relative;
+    left: 50vw;
+    top: -25px;
+}
