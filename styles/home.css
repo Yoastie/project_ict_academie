@@ -12,6 +12,25 @@ body
      height: 100vh;
 }
 
+/*Opmaak Main*/
+/*Main Main opmaak*/
+main
+{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+main>div>img
+{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+}
+
 header
 {
      width: 100%;
@@ -49,6 +68,12 @@ li
     left: 31vw;
     top: 21px;
 
+}
+
+ul
+{
+    margin: 0;
+    padding: 0;
 }
 
 a

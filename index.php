@@ -19,7 +19,9 @@
             include "Includes/header.php"
         ?>
         <main>
-
+            <div>
+                <img src="/images/ICT%20academie%20achtegrond.jpg" alt="Achtergrond">
+            </div>
         </main>
         <?php
             include "Includes/Footer.php"
