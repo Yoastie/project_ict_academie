@@ -23,7 +23,7 @@
         <p id="volledigeNaam">
             Hallo, <?php echo ($_POST['firstname']); ?> <?php echo ($_POST['lastname']); ?>
             <br>
-            Hier zijn uw resulaten van de enquete die u net heeft ingevuld:
+            Hier zijn de resulaten van de enquete die u net heeft ingevuld:
         </p>
 
         <p id="resultaten">
