@@ -26,8 +26,8 @@ include "Includes/header.php"
             <p>Voornaam:</p> <input type="text" placeholder="Vul hier je naam in" name="firstname">
             <p>Achternaam:</p> <input type="text" placeholder="Vul hier je achternaam in" name="lastname">
 
-            <!-- value 1 = software,
-            value 5 = hardware-->
+            <!-- value 0 = software,
+            value 40 = hardware-->
             <p>Vind je het leuk om moeilijke opdrachten op te lossen?</p>
         <!--    radio voegt de vraag toe aan een groep zoals question1 dan kan je maar 1 ding aanvinken bij question 1-->
             <input type="radio" name="question1" value="0"> ja
