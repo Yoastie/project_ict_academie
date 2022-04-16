@@ -73,10 +73,10 @@ include "Includes/header.php"
             <input type="radio" name="question9" value="40"> ja
             <input type="radio" name="question9" value="0"> nee
 
-            <p></p>
+            <p>kun je goed met je handen werken</p>
 
-            <input type="radio" name="question10" value="0"> ja
-            <input type="radio" name="question10" value="40"> nee
+            <input type="radio" name="question10" value="40"> ja
+            <input type="radio" name="question10" value="0"> nee
 
             <p></p>
 
