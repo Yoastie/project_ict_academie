@@ -16,6 +16,7 @@
         <link href="styles/Index.css" rel="stylesheet">
     </head>
     <body>
+        <!--  Inlcudes van header  -->
         <?php
             include "Includes/header.php"
         ?>
@@ -27,6 +28,9 @@
                 Wil jij weten welke opleiding het beste bij jou past?
             </h2>
             <?php
+
+                echo date("d-m-Y") . "<br>";
+                echo date("H:i");
 
                 date_default_timezone_set('Europe/Amsterdam');
 
@@ -52,6 +56,7 @@
             </p>
             <a href="./Pages/vragen.php"><button id="formulierPageknop">Formulier</button></a>
         </main>
+        <!--Includes footer-->
         <?php
             include "Includes/Footer.php"
         ?>
