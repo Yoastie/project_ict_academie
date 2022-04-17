@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3ff2227-1864-46a4-a00c-8bd55ba50b86" name="Changes" comment="Project">
-      <change afterPath="$PROJECT_DIR$/../../../Realiseren/Thema3/hoofdstuk 5/oefening/5.2/oefening5.2-resultaat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Realiseren/Thema3/hoofdstuk 5/oefening/steenpapierschaar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Realiseren/Thema3/hoofdstuk 6/includes/nav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Realiseren/Thema3/hoofdstuk 6/instructie/winkelmand/winkelwagen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/indexphp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vragen.php" beforeDir="false" afterPath="$PROJECT_DIR$/vragen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Realiseren/Thema3/hoofdstuk 5/oefening/oefening5.2-resultaat.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Realiseren/Thema3/hoofdstuk 5/oefening/oefening5.2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Realiseren/Thema3/hoofdstuk 5/oefening/5.2/oefening5.2.php" afterDir="false" />
+    <list default="true" id="f3ff2227-1864-46a4-a00c-8bd55ba50b86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Greeting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/home.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
