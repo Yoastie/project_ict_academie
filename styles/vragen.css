@@ -24,3 +24,11 @@
 {
    background-color: #66b6df;
 }
+
+footer
+{
+    position: relative;
+    height: 7vh;
+    background-color: #0085ca;
+    color: white;
+}

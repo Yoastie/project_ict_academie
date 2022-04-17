@@ -20,7 +20,7 @@
     </head>
     <body id="bodyresultaat">
     <?php
-    include "Includes/header.php"
+    include "../Includes/header.php"
     ?>
     <br>
         <?php
@@ -68,7 +68,7 @@
             </p>
         </div>
     <?php
-    include "Includes/footer.php"
+    include "../Includes/footer.php"
     ?>
     </body>
 </html>
