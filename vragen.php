@@ -15,13 +15,12 @@
     <link href="styles/home.css" rel="stylesheet">
     <link rel="stylesheet" href="styles/vragen.css">
 </head>
-<body>
+<body id="bodyvragen">
 <?php
 include "Includes/header.php"
 ?>
 <br>
 <div id="Formdoos">
-    <main>
         <form method="post" action="resultaat.php">
             <p>Voornaam:</p> <input type="text" placeholder="Vul hier je naam in" name="firstname">
             <p>Achternaam:</p> <input type="text" placeholder="Vul hier je achternaam in" name="lastname">
@@ -73,32 +72,32 @@ include "Includes/header.php"
             <input type="radio" name="question9" value="40"> ja
             <input type="radio" name="question9" value="0"> nee
 
-            <p>kun je goed met je handen werken</p>
+            <p>kun je goed met je handen werken?</p>
 
             <input type="radio" name="question10" value="40"> ja
             <input type="radio" name="question10" value="0"> nee
 
-            <p></p>
+            <p>ben je sociaal?</p>
 
             <input type="radio" name="question11" value="0"> ja
             <input type="radio" name="question11" value="40"> nee
 
-            <p></p>
+            <p>ggggggggggggggggggggg</p>
 
             <input type="radio" name="question12" value="0"> ja
             <input type="radio" name="question12" value="40"> nee
 
-            <p></p>
+            <p>ggggggggggggggggggg</p>
 
             <input type="radio" name="question13" value="0"> ja
             <input type="radio" name="question13" value="40"> nee
 
-            <p></p>
+            <p>gggggggggggggggggg</p>
 
             <input type="radio" name="question14" value="0"> ja
             <input type="radio" name="question14" value="40"> nee
 
-            <p></p>
+            <p>gggggggggggggggggggggg</p>
 
             <input type="radio" name="question15" value="0"> ja
             <input type="radio" name="question15" value="40"> nee
@@ -107,7 +106,6 @@ include "Includes/header.php"
         <!--    deze knop zorgt dat je alle data naar de resultaten pagina brengt-->
             <input type="submit" value="Resultaat" id="submitknoppie">
         </form>
-    </main>
 </div>
 <?php
 include "Includes/Footer.php"
