@@ -12,12 +12,12 @@
     </title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="styles/home.css" rel="stylesheet">
-    <link rel="stylesheet" href="styles/vragen.css">
+    <link href="../styles/home.css" rel="stylesheet">
+    <link rel="stylesheet" href="../styles/vragen.css">
 </head>
 <body id="bodyvragen">
 <?php
-include "Includes/header.php"
+include "../Includes/header.php"
 ?>
 <br>
 <div id="Formdoos">
@@ -108,7 +108,7 @@ include "Includes/header.php"
     </form>
 </div>
 <?php
-include "Includes/Footer.php"
+include "../Includes/footer.php"
 ?>
 </body>
 </html>

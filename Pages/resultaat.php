@@ -13,7 +13,7 @@
             Resultaten!
         </title>
         <!-- link naar CSS bestand -->
-        <link rel="stylesheet" href="./styles/resultaat.css">
+        <link rel="stylesheet" href="../styles/resultaat.css">
         <script src="" defer></script>
         <meta charset = "UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -52,23 +52,23 @@
                 <?php
                 if ($jouwScore > 399) {
                     echo "Expert System and Devices";
-                    echo '<img src="images/systeembeheer.jpg" alt="test1" class="resultaatimg"/>';
+                    echo '<img src="../images/systeembeheer.jpg" alt="test1" class="resultaatimg"/>';
                 }
 
                 else if ($jouwScore >199 == $jouwScore <399) {
                     echo "Allround Medewerker System and Devices";
-                    echo '<img src="images/buildingcomputer.jpg" alt="test1" class="resultaatimg"/>';
+                    echo '<img src="../images/buildingcomputer.jpg" alt="test1" class="resultaatimg"/>';
                 }
 
                 else if ($jouwScore <199) {
                     echo "Software Developer";
-                    echo '<img src="images/coding.png" alt="test1" class="resultaatimg"/>';
+                    echo '<img src="../images/coding.png" alt="test1" class="resultaatimg"/>';
                 }
                 ?>
             </p>
         </div>
     <?php
-    include "Includes/Footer.php"
+    include "Includes/footer.php"
     ?>
     </body>
 </html>
