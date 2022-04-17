@@ -135,8 +135,8 @@ div>img
 }
 
 ul#navbar {
-    padding-top: 0px;
-    margin-top: 0px;
+    padding-top: 0;
+    margin-top: 0;
 }
 
 /*Overige opmaak/Main pagina opmaak*/
@@ -175,8 +175,11 @@ main>p
 #formulierPageknop
 {
     position: relative;
+    width: 200px;
+    height: 100px;
     left: 60vw;
+    bottom: 50px;
     background-color: #ef2b2d;
     color: #fff;
-    font-size: 3em;
+    font-size: 25px;
 }

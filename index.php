@@ -49,9 +49,7 @@
                 Het formulier gaat vragen stellen en daarna met een complex algoritme bepalen voor welke opleiding jij het meest geschikt bent. <br>
                 bereid je maar voor!
             </p>
-            <a href="/vragen.php">
-                <input type="submit" value="Formulier" id="formulierPageknop">
-            </a>
+            <a href="/vragen.php"><button id="formulierPageknop">Formulier</button></a>
         </main>
         <?php
             include "Includes/Footer.php"
