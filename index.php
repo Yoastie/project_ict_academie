@@ -29,8 +29,8 @@
             </h2>
             <?php
 //                Laat de datum en tijd zien.
-                echo date("d-m-Y") . "<br>";
-                echo date("H:i");
+                echo "<p class='dateCSS'>" . date("d-m-Y") . "</p>" . "<br>";
+                echo "<p class='dateCSS'>" . date("H:i") . "</p>";
 //                Plaats de goede tijdzone voor alle datums en tijden
                 date_default_timezone_set('Europe/Amsterdam');
 //                Een variable die de huidelijke tijd van de machine oppakt
