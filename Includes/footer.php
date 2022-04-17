@@ -5,7 +5,6 @@
  * File: footer.php
  */
 ?>
-<link rel="stylesheet" href="/styles/home.css">
 <Footer>
     <div class="lijn"></div>
     <div id="facebookFoto"><img src="/images/Facebook.png" alt="Facebook"></div>
