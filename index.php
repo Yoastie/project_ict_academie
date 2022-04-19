@@ -28,11 +28,13 @@
                 Wil jij weten welke opleiding het beste bij jou past?
             </h2>
             <?php
+            //  Plaats de goede tijdzone voor alle datums en tijden
+                date_default_timezone_set('Europe/Amsterdam');
+
 //                Laat de datum en tijd zien.
                 echo "<p class='dateCSS'>" . date("d-m-Y") . "</p>" . "<br>";
                 echo "<p class='dateCSS'>" . date("H:i") . "</p>";
-//                Plaats de goede tijdzone voor alle datums en tijden
-                date_default_timezone_set('Europe/Amsterdam');
+
 //                Een variable die de huidelijke tijd van de machine oppakt
                 $Hour = date('H');
 //              Een if else om te bepalen wanneer er welke begroeting moet worden gebruikt
