@@ -1,5 +1,11 @@
+/**
+/** User: Lars van Iersel
+/** Date: 16-4-2022*
+/** File: Index.php*
+/**
+*/
 
-
+/*dit zorgt ervoor dat alle vragen een mooi omhulselhebben */
 #Formdoos
 {
     width:800px;
@@ -10,7 +16,7 @@
     background-color: #0085ca;
 
 }
-
+/*dit is de submit knop zijn opmaak*/
 #submitknoppie
 {
     padding: 5px;
@@ -20,11 +26,12 @@
     font-size: .8em;
 }
 
+/*dit geeft de body een background-color*/
 #bodyvragen
 {
    background-color: #66b6df;
 }
-
+/*dit posioneert de footer zodat hij er mooi staat*/
 footer
 {
     position: relative;

@@ -67,6 +67,8 @@
                 ?>
             </p>
         </div>
+
+
     <?php
     include "../Includes/footer.php"
     ?>

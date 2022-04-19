@@ -1,3 +1,11 @@
+/**
+/** User: Lars van Iersel
+/** Date: 16-4-2022*
+/** File: Index.php*
+/**
+*/
+
+/*dit zorgt ervoor dat het resultaat een mooi omhulsel heeft */
 #resultaatdoos
 {
     width:800px;
@@ -8,6 +16,7 @@
     background-color: #0085ca;
 }
 
+/*dit zorgt dat de img niet te groot is en op een mooie plek staat*/
 .resultaatimg
 {
     position: relative;
@@ -15,12 +24,12 @@
     width: 200px;
     left: 120px;
 }
-
+/*dit geeft de achtergrond van de body een kleur*/
 #bodyresultaat
 {
     background-color:  #66b6df;
 }
-
+/*dit posioneert de footer zodat hij er mooi staat*/
 footer
 {
     position: fixed;

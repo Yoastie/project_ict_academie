@@ -9,6 +9,7 @@
 <html lang="nl">
 <head>
     <title>
+        vragen pagina
     </title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -107,6 +108,7 @@ include "../Includes/header.php"
         <input type="submit" value="Resultaat" id="submitknoppie">
     </form>
 </div>
+<br>
 <?php
 include "../Includes/footer.php"
 ?>
